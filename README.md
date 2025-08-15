@@ -35,17 +35,17 @@
    - Add new Rule and Add process rule
    - Change the Backdrop type to Acrylic and enable blur behind in advanced options
 </p>
-<div align="left">
+<div align="center">
   <img height="400" src="https://github.com/user-attachments/assets/34f6965c-1bdc-4ea1-8605-efde3b898d23"  />
 </div>
 <br><br>
-<p align="left">
-    Disable Show Accent color on title bars and window borders in Windows 11 settings
+<div align="center">
+   - Disable Show Accent color on title bars and window borders in Windows 11 settings
 </p>
 <img width="900" src="https://github.com/user-attachments/assets/e867a04e-a8ba-4795-bada-e22ca92fc657" />
 <br><br>
-<div align="left">
-    Make sure color contrast is set to 0
+<div align="center">
+   - Make sure color contrast is set to 0
 </p>
 <img width="250" src="https://github.com/user-attachments/assets/aff8398c-9457-4842-bb44-32932cb99e23" />
 <br>
