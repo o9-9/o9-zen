@@ -33,7 +33,7 @@
    - List of configs which can change `about:config`
 
 ###
-<p align="center"></p>
+---
 
 <h3 align="left">• Install Mica For Everyone</h3>
 
@@ -60,7 +60,7 @@
 <br>
 
 ###
-<p align="center"></p>
+---
 
 <h3 align="left">• Zen Internet</h3>
 
@@ -69,6 +69,7 @@
 > This extension makes web pages transparent
 
 ###
+---
 
 <h3 align="left">• Bonjourrr</h3>
 
@@ -82,6 +83,7 @@
 |-|-|-|
 
 ###
+---
 
 <p align="left">• Custom CSS:</p>
 
