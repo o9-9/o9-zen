@@ -41,7 +41,6 @@
 ###
 
    - Install  [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone)
-<div align="left">
    - Add new Rule and Add process rule
    - Change the Backdrop type to Acrylic and enable blur behind in advanced options
 </p>
