@@ -1,7 +1,7 @@
 <h1 align="center">o9</h1>
 <div align="center">
-    <a href="https://zen-browser.app/">
-        <img width="120" alt="zen-badge-dark" src="https://github.com/user-attachments/assets/b38234b9-a3ae-4935-82e8-279596a2940d" />
+    <a href="https://github.com/o9-9/o9-zen">
+        <img width="120" alt="o9-zen" src="https://github.com/user-attachments/assets/b38234b9-a3ae-4935-82e8-279596a2940d" />
     </a>
 </div>
 
