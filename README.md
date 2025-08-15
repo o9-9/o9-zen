@@ -1,18 +1,9 @@
 <h1 align="center">o9 Zen</h1>
 <div align="center">
-    <a href="https://github.com/o9-9/o9-zen">
-        <img width="120" alt="o9-zen" src="https://github.com/user-attachments/assets/c5c3bb94-690b-437a-8b89-ce16c702a00a" />
-    </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://github.com/user-attachments/assets/3c2dbe57-4182-4876-8a53-b7b4f3b0f5b0" width="800" />
 </div>
 
 ###
----
 
 <h2 align="left">💫 o9 Zen</h2>
 
@@ -20,12 +11,14 @@
    - [chrome](https://github.com/o9-9/o9-zen/releases/download/v9.9/chrome.zip)
    - [wallpapers](https://github.com/o9-9/o9-zen/releases/download/v9.9/Wallpapers.zip)
 
+###
 
 •  **Transparent:**
    - Go to `about:config`
    - Search `browser.tabs.allow_transparent_browser`
    - Set it `true`
 
+###
 
 •  **Customize configs:**
    - Customize `o9-config.css`
