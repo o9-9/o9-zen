@@ -1,90 +1,86 @@
-<h1 align="center">o9 Zen</h1>
+# 🧘 o9 Zen
+
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/3c2dbe57-4182-4876-8a53-b7b4f3b0f5b0" width="800" />
+  <img src="https://github.com/user-attachments/assets/3c2dbe57-4182-4876-8a53-b7b4f3b0f5b0" width="800" alt="o9 Zen Banner Image" />
+
+[![GitHub Release](https://img.shields.io/badge/release-v9.9-blue.svg)](https://github.com/o9-9/o9-zen/releases/tag/v9.9)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 </div>
 
-###
+## 📋 Overview
 
-<h2 align="left">💫 o9 Zen</h2>
+o9 Zen is a Firefox theme and customization suite designed to create a transparent, minimalist browsing experience. This project combines custom CSS, extensions, and system configurations to achieve a zen-like browsing environment.
 
-•  **Install:**
-   - [chrome](https://github.com/o9-9/o9-zen/releases/download/v9.9/chrome.zip)
-   - [wallpapers](https://github.com/o9-9/o9-zen/releases/download/v9.9/Wallpapers.zip)
+## 🚀 Quick Install
 
-###
+### Download Resources
 
-•  **Transparent:**
-   - Go to `about:config`
-   - Search `browser.tabs.allow_transparent_browser`
-   - Set it `true`
+- [Chrome Theme](https://github.com/o9-9/o9-zen/releases/download/v9.9/chrome.zip)
+- [Wallpaper Collection](https://github.com/o9-9/o9-zen/releases/download/v9.9/Wallpapers.zip)
 
-###
+### Enable Transparency
 
-•  **Customize configs:**
-   - Customize `o9-config.css`
-   - List of configs which can change `about:config`
+1. Navigate to `about:config` in Firefox
+2. Search for `browser.tabs.allow_transparent_browser`
+3. Set it to `true`
 
-###
----
+### Customize Configuration
 
-<h3 align="left">Install Mica For Everyone</h3>
+- Modify `o9-config.css` to suit your preferences
+- Additional settings can be changed in `about:config`
 
-###
+## 🛠️ Setup Instructions
 
-   - Install  [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone)
-   - Add new Rule and Add process rule
-   - Change the Backdrop type to Acrylic and enable blur behind in advanced options
-</p>
-  <img height="400" src="https://github.com/user-attachments/assets/34f6965c-1bdc-4ea1-8605-efde3b898d23"  />
+### Install Mica For Everyone
+
+1. Download and install [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone)
+2. Add a new rule and process rule for Firefox
+3. Change the backdrop type to Acrylic and enable blur behind in advanced options
+
+<div align="center">
+  <img height="400" src="https://github.com/user-attachments/assets/34f6965c-1bdc-4ea1-8605-efde3b898d23" alt="Mica For Everyone Configuration" />
 </div>
-<br>
 
-###
+### Windows Settings
 
-   - Disable Show Accent color on title bars and window borders in Windows 11 settings
-</p>
-<img width="900" src="https://github.com/user-attachments/assets/e867a04e-a8ba-4795-bada-e22ca92fc657" />
-<br>
+1. Disable "Show Accent color on title bars and window borders" in Windows 11 settings
 
-###
+<div align="center">
+  <img width="700" src="https://github.com/user-attachments/assets/e867a04e-a8ba-4795-bada-e22ca92fc657" alt="Windows 11 Settings" />
+</div>
 
-   - Make sure color contrast is set to 0
-</p>
-<img width="250" src="https://github.com/user-attachments/assets/aff8398c-9457-4842-bb44-32932cb99e23" />
-<br>
+2. Set color contrast to 0
 
-###
----
+<div align="center">
+  <img width="250" src="https://github.com/user-attachments/assets/aff8398c-9457-4842-bb44-32932cb99e23" alt="Color Contrast Settings" />
+</div>
 
-<h3 align="left">Zen Internet</h3>
+## 🧩 Required Extensions
 
-   - Install [Zen Internet](https://addons.mozilla.org/en-US/firefox/addon/zen-internet/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+### Zen Internet
 
-> This extension makes web pages transparent
+[Zen Internet](https://addons.mozilla.org/en-US/firefox/addon/zen-internet/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) makes web pages transparent, enhancing the minimalist experience.
 
-###
----
+### Bonjourrr
 
-<h3 align="left">Bonjourrr</h3>
+[Bonjourrr](https://addons.mozilla.org/en-US/firefox/addon/bonjourr-startpage/) provides a clean, customizable new tab page.
 
-   - Install [Bonjourrr](https://addons.mozilla.org/en-US/firefox/addon/bonjourr-startpage/)</p>
+Configure Bonjourrr with these settings:
 
-###
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/e7e27035-6e2b-4006-abf7-091a103536f9" alt="Bonjourrr Settings 1" /></td>
+      <td><img src="https://github.com/user-attachments/assets/d8fb107f-1247-4a3e-8026-619311e2dee5" alt="Bonjourrr Settings 2" /></td>
+      <td><img src="https://github.com/user-attachments/assets/724abcd8-a9f0-4d76-a054-3d76e3c7db60" alt="Bonjourrr Settings 3" /></td>
+    </tr>
+  </table>
+</div>
 
-   - Change the settings to these:
+## 💅 Custom CSS
 
-| ![image](https://github.com/user-attachments/assets/e7e27035-6e2b-4006-abf7-091a103536f9) | ![image](https://github.com/user-attachments/assets/d8fb107f-1247-4a3e-8026-619311e2dee5) | ![image](https://github.com/user-attachments/assets/724abcd8-a9f0-4d76-a054-3d76e3c7db60) |
-|-|-|-|
-
-###
-
-###
-
----
-
-<h3 align="left">Custom CSS</h3>
-
-###
+Apply this CSS to achieve the proper font rendering and transparency:
 
 ```css
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
@@ -135,22 +131,29 @@ p {
     opacity: 0 !important;
 }
 ```
-###
----
 
+## 📌 Pin Extensions
 
-
-<h3 align="left">Pin extension</h3>
-
-###
+To complete your setup, pin the required extensions:
 
 <div align="center">
-
-
-<img height="400" src="https://github.com/user-attachments/assets/8121a9a4-e8ed-4c4e-8ed0-92bd775438bb" />
-
-
+  <img height="400" src="https://github.com/user-attachments/assets/8121a9a4-e8ed-4c4e-8ed0-92bd775438bb" alt="Pinned Extensions" />
 </div>
 
+## 📸 Screenshots
 
-###
+<!-- You can add additional screenshots here to show off your theme -->
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+<div align="center">
+  <sub>Made with ❤️ by <a href="https://github.com/o9-9">o9-9</a></sub>
+</div>
