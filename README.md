@@ -15,9 +15,7 @@
 ---
 
 <h2 align="left">💫 o9 Zen</h2>
-<p align="center"></p>
 
-###
 •  **Install:**
    - [chrome](https://github.com/o9-9/o9-zen/releases/download/v9.9/chrome.zip)
    - [wallpapers](https://github.com/o9-9/o9-zen/releases/download/v9.9/Wallpapers.zip)
