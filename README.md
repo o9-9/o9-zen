@@ -1,7 +1,7 @@
-<h1 align="center">o9</h1>
+<h1 align="center">o9 Zen</h1>
 <div align="center">
     <a href="https://github.com/o9-9/o9-zen">
-        <img width="120" alt="o9-zen" src="https://github.com/user-attachments/assets/b38234b9-a3ae-4935-82e8-279596a2940d" />
+        <img width="120" alt="o9-zen" src="https://github.com/user-attachments/assets/c5c3bb94-690b-437a-8b89-ce16c702a00a" />
     </a>
 </div>
 
@@ -13,102 +13,67 @@
 
 ###
 
-## 💫 Installation
+<h3 align="left">💫 o9 Zen</h3>
 
-Steps to install and apply the **o9** theme:
+.  **Install**
+   - [chrome](https://github.com/o9-9/o9-zen/releases/download/v9.9/chrome.zip).
+   - [wallpapers](https://github.com/o9-9/o9-zen/releases/download/v9.9/Wallpapers.zip).
 
-1. 📁 **Create the Chrome Folder**
-   create  `chrome` folder.
-   
-2. 📦 **Download the theme**
-   - Download the `chrome.zip` file from the [latest release](https://github.com/o9-9/o9-zen/releases/latest).
-   - Extract it and paste the `o9` folder inside `chrome` directory.
-
-3. 🧩 **Apply the Theme**
-   Two options:
-
-   **Option 1** – *Manual Import*
-   - Open `userChrome.css`:
-     ```css
-     @import "o9/o9.css";
-     ```
-   - Open `userContent.css`:
-     ```css
-     @import "o9/o9-content.css";
-     ```
-
-2. 🔄 **Restart the Browser**
-   Reopen to apply the UI changes.
-
-   **Option 2** – *Use Provided Files*
-   - Use the `userChrome.css` and `userContent.css` files provided in the ZIP and paste them directly into `chrome` folder.
-
-5. ⚙️ **Enable Transparent Tabs**
+.  **Transparent**
    - Go to `about:config`.
-   - Search for `browser.tabs.allow_transparent_browser`.
-   - Set it to `true`.
+   - Search `browser.tabs.allow_transparent_browser`.
+   - Set it `true`.
 
-6. 🖼️ **Install Wallpapers**
-   - Download `wallpapers.zip` from the [latest release](https://github.com/o9-9/o9-zen/releases/latest).
-   - Extract and use them as desired.
+.  **Customize configs**
+   - Customize `o9-config.css`.
+   - List of configs which can change `about:config`.
 
-
+.  **Install Mica For Everyone**
+   - Install [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone).<br><br>
+   - "+ Add new Rule" and "Add process rule".<br><br>
+   - Change the Backdrop type to Acrylic and enable blur behind in advanced options.
+   
 ###
 
-<h3 align="left">2. Customize</h3>
-
-###
-
-- `o9-config.css` to customize
-- Change or disable animations `o9-config.css`
-- Example, the `nogaps` mod removes the gap/border from the website window
-- List of configs which can change `about:config`
-
-###
-
-<h3 align="left">3. Mica For Everyone</h3>
-
-###
-
-• Install [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone)
-• "+ Add new Rule" and "Add process rule"
-• Change the Backdrop type to Acrylic and enable blur behind in advanced options.
-
+</p>
 <div align="left">
   <img height="400" src="https://github.com/user-attachments/assets/34f6965c-1bdc-4ea1-8605-efde3b898d23"  />
 </div>
 
 ###
 
-• Disable "Show Accent color on title bars and window borders" in Windows 11 settings.
+<p align="left">
+   - Disable "Show Accent color on title bars and window borders" in Windows 11 settings.
 </p>
 <img width="900" src="https://github.com/user-attachments/assets/e867a04e-a8ba-4795-bada-e22ca92fc657" />
 <br><br>
 
-<p align="left">• Make sure color contrast is set to 0.
+###
 
+   - Make sure color contrast is set to 0.
 </p>
 <img width="250" src="https://github.com/user-attachments/assets/aff8398c-9457-4842-bb44-32932cb99e23" />
 
 ###
 
-<h3 align="left">3. Extension:</h3>
+<h3 align="left">Zen Internet</h3>
 
-###
-
-### Install [Zen Internet](https://addons.mozilla.org/en-US/firefox/addon/zen-internet/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+   - Install [Zen Internet](https://addons.mozilla.org/en-US/firefox/addon/zen-internet/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
 > This extension makes web pages transparent
 
 ###
 
-### Install [Bonjourrr](https://addons.mozilla.org/en-US/firefox/addon/bonjourr-startpage/)
-<p align="left">• Install ""
-<br><br>
-• Change the settings to these:</p>
+<h3 align="left">Bonjourrr</h3>
+
+   - Install [Bonjourrr](https://addons.mozilla.org/en-US/firefox/addon/bonjourr-startpage/)</p>
+
+###
+
+   - Change the settings to these:
 
 | ![image](https://github.com/user-attachments/assets/e7e27035-6e2b-4006-abf7-091a103536f9) | ![image](https://github.com/user-attachments/assets/d8fb107f-1247-4a3e-8026-619311e2dee5) | ![image](https://github.com/user-attachments/assets/724abcd8-a9f0-4d76-a054-3d76e3c7db60) |
-| ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+|-|-|-|
 
 ###
 
@@ -165,19 +130,20 @@ p {
 ```
 ###
 
-<h3 align="left">5. Pin extension</h3>
+
+
+
+<h3 align="left">Pin extension</h3>
 
 ###
-
-<p align="left">• Pin extension</p>
 
 <div align="center">
 
 
 <img height="400" src="https://github.com/user-attachments/assets/8121a9a4-e8ed-4c4e-8ed0-92bd775438bb" />
 
+
 </div>
 
-###
 
 ###
