@@ -79,7 +79,7 @@
 ###
 ---
 
-<p align="left">• Custom CSS:</p>
+<p align="left">• Custom CSS</p>
 
 ```css
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
@@ -131,7 +131,7 @@ p {
 }
 ```
 ###
-
+---
 
 
 
