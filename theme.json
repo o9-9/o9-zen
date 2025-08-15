@@ -1,0 +1,20 @@
+{
+  "id": "o9",
+  "js": true,
+  "homepage": "https://github.com/o9-9/o9-zen",
+  "author": "o9-9",
+  "name": "o9",
+  "description": "A beautiful theme made for Zen Browser :))",
+  "version": "9.9.9",
+  "createdAt": "2025-08-15",
+  "updatedAt": "2025-08-15",
+  "readme": "https://raw.githubusercontent.com/o9-9/o9-zen/main/README.md",
+  "image": "https://github.com/user-attachments/assets/e09859a4-ad66-483e-be67-b25d11d54298",
+  "modules": "Anoms12/advanced-tab-groups",      
+  "tags": [
+    "content",
+    "chrome",
+    "minimal"
+  ],
+  "fork": ["zen"]
+}

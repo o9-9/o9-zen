@@ -1,0 +1,186 @@
+[
+  {
+    "type": "text",
+    "label": "⚙️ General Settings",
+    "margin": "30px 0 15px 0",
+    "size": "20px"
+  },
+
+  {
+    "type": "separator",
+    "label": "🎨 Tab Animations",
+    "margin": "20px 0 8px 0"
+  },
+  {
+    "type": "dropdown",
+    "property": "o9-tab-switch-animation",
+    "label": "Tab switch animation",
+    "value": "number",
+    "default": 1,
+    "placeholder": false,
+    "options": [
+      { "label": "No animation", "value": 0 },
+      { "label": "Default", "value": 1 },
+      { "label": "Slightly bouncy", "value": 3 },
+      { "label": "More bouncy", "value": 2 },
+      { "label": "Crossfade (no blur)", "value": 4 },
+      { "label": "Zoom out", "value": 5 }
+    ]
+  },
+  {
+    "type": "dropdown",
+    "property": "o9-tab-loading-animation",
+    "label": "Tab loading animation",
+    "value": "number",
+    "default": 1,
+    "placeholder": false,
+    "options": [
+      { "label": "No animation", "value": 0 },
+      { "label": "Default", "value": 1 },
+      { "label": "Lighter", "value": 3 },
+      { "label": "Heavier", "value": 2 },
+      { "label": "Grayscale (no blur)", "value": 4 },
+      { "label": "Blur + grayscale", "value": 5 }
+    ]
+  },
+
+  {
+    "type": "separator",
+    "label": "✨ Glow Effects",
+    "margin": "25px 0 8px 0"
+  },
+  {
+    "type": "dropdown",
+    "property": "o9-glow-gradient",
+    "label": "Hover glow animation",
+    "value": "number",
+    "default": 1,
+    "placeholder": false,
+    "options": [
+      { "label": "No animation", "value": 0 },
+      { "label": "Default", "value": 1 },
+      { "label": "Monochrome", "value": 2 },
+      { "label": "RGB", "value": 3 }
+    ]
+  },
+
+  {
+    "type": "separator",
+    "label": "🌐 URL Bar Animations",
+    "margin": "25px 0 8px 0"
+  },
+  {
+    "type": "dropdown",
+    "property": "o9-urlbar-animation",
+    "label": "URL bar animation style",
+    "value": "number",
+    "default": 1,
+    "placeholder": false,
+    "options": [
+      { "label": "No animation", "value": 0 },
+      { "label": "Default", "value": 1 },
+      { "label": "Heavier", "value": 2 },
+      { "label": "Grayscale (no blur)", "value": 3 }
+    ]
+  },
+
+  {
+    "type": "separator",
+    "label": "🧭 Workspace Buttons",
+    "margin": "25px 0 8px 0"
+  },
+  {
+    "type": "dropdown",
+    "property": "o9-workspace-style",
+    "label": "Workspace button style",
+    "value": "number",
+    "default": 1,
+    "placeholder": false,
+    "options": [
+      { "label": "No background", "value": 0 },
+      { "label": "Default", "value": 1 },
+      { "label": "Minimal (smooth animations)", "value": 2 }
+    ]
+  },
+
+  {
+    "type": "separator",
+    "label": "🔊 Sound Buttons",
+    "margin": "25px 0 8px 0"
+  },
+  {
+    "type": "dropdown",
+    "property": "o9-default-sound-style",
+    "label": "Sound button style",
+    "value": "number",
+    "default": 1,
+    "placeholder": false,
+    "options": [
+      { "label": "Disable o9 styling", "value": 0 },
+      { "label": "Default", "value": 1 },
+      { "label": "Floating (top-right of favicon, smaller size)", "value": 2 }
+    ]
+  },
+
+  {
+    "type": "separator",
+    "label": "",
+    "margin": "30px 0 5px 0"
+  },
+
+  {
+    "type": "text",
+    "label": "🧩 Other Settings",
+    "margin": "20px 0 15px 0",
+    "size": "20px"
+  },
+
+  {
+    "type": "checkbox",
+    "property": "o9-tabs-no-shadow",
+    "label": "Remove tab shadows"
+  },
+
+  {
+    "type": "checkbox",
+    "property": "o9-essentials-gray-icons",
+    "label": "Gray out essentials icons when idle"
+  },
+
+  {
+    "type": "checkbox",
+    "property": "o9-disable-container-styling",
+    "label": "Disable container tab styling"
+  },
+  {
+    "type": "checkbox",
+    "property": "o9-nogaps-mod",
+    "label": "Enable NoGaps mod (single toolbar only)"
+  },
+  {
+    "type": "checkbox",
+    "property": "o9-nogaps-compact-mod",
+    "label": "Enable Marginless Compact mod"
+  },
+  {
+    "type": "checkbox",
+    "property": "o9-compact-mode-no-sidebar-bg",
+    "label": "Disable compact sidebar background (transparent sites)"
+  },
+  {
+    "type": "checkbox",
+    "property": "o9-pinned-tabs-bg",
+    "label": "Remove background on pinned tabs"
+  },
+  {
+    "type": "checkbox",
+    "property": "o9-pinned-extensions-mod",
+    "label": "Enable pinned extensions mod (see GitHub for setup)"
+  },
+
+  {
+    "type": "checkbox",
+    "property": "o9-remove-workspace-indicator",
+    "label": "Remove workspace indicator"
+  }
+]
