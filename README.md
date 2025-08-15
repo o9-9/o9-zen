@@ -13,7 +13,10 @@
 
 ###
 
-<h3 align="left">💫 o9 Zen</h3>
+<h2 align="left">💫 o9 Zen</h2>
+<p align="center"></p>
+
+###
 
 .  **Install**
    - [chrome](https://github.com/o9-9/o9-zen/releases/download/v9.9/chrome.zip).
@@ -28,28 +31,25 @@
    - Customize `o9-config.css`.
    - List of configs which can change `about:config`.
 
-.  **Install Mica For Everyone**
-   - Install [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone).<br><br>
-   - "+ Add new Rule" and "Add process rule".<br><br>
-   - Change the Backdrop type to Acrylic and enable blur behind in advanced options.
-   
 ###
 
-</p>
-<div align="left">
-  <img height="400" src="https://github.com/user-attachments/assets/34f6965c-1bdc-4ea1-8605-efde3b898d23"  />
-</div>
+<h3 align="left">Install Mica For Everyone</h3>
 
 ###
 
 <p align="left">
+   - Install [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone).
+   - "+ Add new Rule" and "Add process rule".
+   - Change the Backdrop type to Acrylic and enable blur behind in advanced options.
+   </p>
+<div align="left">
+  <img height="400" src="https://github.com/user-attachments/assets/34f6965c-1bdc-4ea1-8605-efde3b898d23"  />
+</div>
+<p align="left">
    - Disable "Show Accent color on title bars and window borders" in Windows 11 settings.
 </p>
 <img width="900" src="https://github.com/user-attachments/assets/e867a04e-a8ba-4795-bada-e22ca92fc657" />
-<br><br>
-
-###
-
+<div align="left">
    - Make sure color contrast is set to 0.
 </p>
 <img width="250" src="https://github.com/user-attachments/assets/aff8398c-9457-4842-bb44-32932cb99e23" />
