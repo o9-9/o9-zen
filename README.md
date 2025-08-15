@@ -35,7 +35,7 @@
 ###
 <p align="center"></p>
 
-<h3 align="left">Install Mica For Everyone</h3>
+<h3 align="left">• Install Mica For Everyone</h3>
 
 ###
 
@@ -62,7 +62,7 @@
 ###
 <p align="center"></p>
 
-<h3 align="left">Zen Internet</h3>
+<h3 align="left">• Zen Internet</h3>
 
    - Install [Zen Internet](https://addons.mozilla.org/en-US/firefox/addon/zen-internet/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
@@ -70,7 +70,7 @@
 
 ###
 
-<h3 align="left">Bonjourrr</h3>
+<h3 align="left">• Bonjourrr</h3>
 
    - Install [Bonjourrr](https://addons.mozilla.org/en-US/firefox/addon/bonjourr-startpage/)</p>
 
@@ -83,7 +83,7 @@
 
 ###
 
-<p align="left">• "Add custom CSS":</p>
+<p align="left">• Custom CSS:</p>
 
 ```css
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
@@ -139,7 +139,7 @@ p {
 
 
 
-<h3 align="left">Pin extension</h3>
+<h3 align="left">• Pin extension</h3>
 
 ###
 
