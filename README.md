@@ -1,4 +1,4 @@
-# 🧘 o9 Zen
+<h1 align="center">o9 Zen</h1>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/3c2dbe57-4182-4876-8a53-b7b4f3b0f5b0" width="800" alt="o9 Zen Banner Image" />
@@ -8,7 +8,7 @@
 
 </div>
 
-## 📋 Overview
+## ✨ Overview
 
 o9 Zen is a Firefox theme and customization suite designed to create a transparent, minimalist browsing experience. This project combines custom CSS, extensions, and system configurations to achieve a zen-like browsing environment.
 
@@ -56,7 +56,7 @@ o9 Zen is a Firefox theme and customization suite designed to create a transpare
   <img width="250" src="https://github.com/user-attachments/assets/aff8398c-9457-4842-bb44-32932cb99e23" alt="Color Contrast Settings" />
 </div>
 
-## 🧩 Required Extensions
+## 💎 Required Extensions
 
 ### Zen Internet
 
@@ -78,7 +78,7 @@ Configure Bonjourrr with these settings:
   </table>
 </div>
 
-## 💅 Custom CSS
+## ⚙️ Custom CSS
 
 Apply this CSS to achieve the proper font rendering and transparency:
 
@@ -140,13 +140,9 @@ To complete your setup, pin the required extensions:
   <img height="400" src="https://github.com/user-attachments/assets/8121a9a4-e8ed-4c4e-8ed0-92bd775438bb" alt="Pinned Extensions" />
 </div>
 
-## 📸 Screenshots
+## 
 
 <!-- You can add additional screenshots here to show off your theme -->
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
@@ -155,5 +151,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 <div align="center">
-  <sub>Made with ❤️ by <a href="https://github.com/o9-9">o9-9</a></sub>
+  <sub>Made ❤️ by <a href="https://github.com/o9-9">o9</a></sub>
 </div>
