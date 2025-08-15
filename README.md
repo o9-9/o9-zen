@@ -77,9 +77,14 @@
 |-|-|-|
 
 ###
+
+###
+
 ---
 
-<p align="left">Custom CSS</p>
+<h3 align="left">Custom CSS</h3>
+
+###
 
 ```css
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
