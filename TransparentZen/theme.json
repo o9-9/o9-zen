@@ -1,0 +1,15 @@
+{
+    "id": "TransparentZen",
+    "name": "Transparent Zen",
+    "description": "TransparentZen",
+    "homepage": "https://github.com/o9-9/o9-zen/tree/main/TransparentZen",
+    "style": "https://raw.githubusercontent.com/o9-9/o9-zen/main/TransparentZen/chrome.css",
+    "readme": "https://raw.githubusercontent.com/o9-9/o9-zen/main/TransparentZen/readme.md",
+    "image": "https://raw.githubusercontent.com/o9-9/o9-zen/main/TransparentZen/image.png",
+    "author": "o9-9",
+    "version": "1.1.1",
+    "tags": [],
+    "createdAt": "2025-05-05",
+    "updatedAt": "2025-05-15",
+    "preferences": "https://raw.githubusercontent.com/o9-9/o9-zen/main/TransparentZen/preferences.json"
+}
